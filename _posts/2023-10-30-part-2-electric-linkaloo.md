@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post Number 2: *Electric Linkaloo*
+title: "Post Number 2: *Electric Linkaloo*"
 date: 2023-10-30
 ---
 I'm going to try to _link_ something now.
